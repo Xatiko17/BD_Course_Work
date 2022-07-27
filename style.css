@@ -1,0 +1,10 @@
+.news-record{
+    overflow: hidden;
+}
+.news-record .photo svg, .news-record .photo img{
+    padding: 10px;
+}
+
+.news .bd-placeholder-img.rounded{
+    padding: 10px 10px 10px 0;
+}
